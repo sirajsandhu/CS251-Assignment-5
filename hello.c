@@ -5,3 +5,8 @@ void main() {
 	printf("This must be a monolithic design\n");
 	microkernel_sendmsg("is more portable");
 }
+
+void microkernel_getmsg(char *b){
+	//TODO: getmsg feature
+}
+
